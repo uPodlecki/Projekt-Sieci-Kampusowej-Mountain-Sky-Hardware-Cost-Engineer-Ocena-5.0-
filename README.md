@@ -1,1 +1,2 @@
 # Projekt-Sieci-Kampusowej-Mountain-Sky-Hardware-Cost-Engineer-Ocena-5.0-
+Opis: Zaprojektowanie od podstaw kompletnej infrastruktury sieciowej dla kampusu o budżecie 2 000 000 PLN.  Zakres prac:Dobór i kosztorysowanie rozwiązań Enterprise: Cisco Firepower 3105, Cisco Catalyst (9500/9300L), IBM ThinkSystem (SR635/DE4000H).Opracowanie pełnej dokumentacji technicznej: schematy w MS Visio, widoki szaf RACK oraz arkusze połączeń fizycznych (Cut Sheets).
